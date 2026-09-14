@@ -1,0 +1,4 @@
+{
+  "buildCommand": "pnpm --filter=@workspace/amyra-birthday run build",
+  "outputDirectory": "artifacts/amyra-birthday/dist"
+}
